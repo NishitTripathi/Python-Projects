@@ -11,7 +11,7 @@ if play.lower() == "yes":
         print("Yay Let's Go!")
 
 else:
-    print("Goodbye")
+    print("Goodbye!")
     quit()
 
 while True:
