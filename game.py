@@ -33,7 +33,7 @@ if answer.lower() == "graphics processing unit":
 else:
     print("Incorrect")
 
-print("You answered " + str(score) + "questions correctly!")
+print("You answered " + str(score) + " questions correctly!")
 print("You got " + str((score / 4) * 100) + "%.")
 
 
